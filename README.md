@@ -1,1 +1,1 @@
-# coq-proofs
+# Some theorems about filter function and "In" proposition proven by Coq.
